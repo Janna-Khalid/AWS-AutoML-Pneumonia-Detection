@@ -2,7 +2,7 @@
 
 This project demonstrates a machine learning solution designed to help doctors quickly identify cases of pneumonia in children using chest X-ray images. Leveraging AWS Rekognition (AutoML), I built, evaluated, and iterated on several classification models, focusing on how data quality, balance, and labeling impact model performance.
 
-> ✅ October 21, 2024
+> ✅Completed on October 21, 2024
 
 ---
 
